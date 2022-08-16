@@ -36,3 +36,13 @@ https://www.audi.com/ci/en/guides/user-interface/introduction.html
 
 Buzzfeed
 https://solid.buzzfeed.com/
+
+Atlassian
+https://atlassian.design/
+
+HelpScout
+https://style.helpscout.com/
+
+## TODO
+-Take common practices and catalog them into a new UI.
+-Find differences between design systems and notate them.
