@@ -1,5 +1,5 @@
 # design-systems
-### Cataloging design systesm from various companies.
+### Cataloging design systems from various companies.
 
 Material Design by Google
 https://material.io/design
