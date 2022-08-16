@@ -19,3 +19,20 @@ https://baseweb.design/
 Shopify
 https://polaris.shopify.com/
 
+Microsoft
+https://www.microsoft.com/design/fluent/#/
+
+IBM
+https://carbondesignsystem.com/
+
+MailChimp
+https://mailchimp.com/design/
+
+Salesforce
+https://www.lightningdesignsystem.com/
+
+Audi
+https://www.audi.com/ci/en/guides/user-interface/introduction.html
+
+Buzzfeed
+https://solid.buzzfeed.com/
