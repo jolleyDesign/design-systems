@@ -43,6 +43,9 @@ https://atlassian.design/
 HelpScout
 https://style.helpscout.com/
 
+Microsoft Teams app:
+https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-fundamentals
+
 ## TODO
 -Take common practices and catalog them into a new UI.
 
