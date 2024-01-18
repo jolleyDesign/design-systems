@@ -46,6 +46,9 @@ https://style.helpscout.com/
 Microsoft Teams app:
 https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-fundamentals
 
+REI Cedar:
+https://cedar.rei.com
+
 ## TODO
 -Take common practices and catalog them into a new UI.
 
